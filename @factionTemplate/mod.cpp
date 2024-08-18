@@ -1,0 +1,14 @@
+name = "factionTemplate"; // Faction Name
+picture = "mod.paa";
+actionName = "";
+action = "";
+description = "AO";
+logo = "mod.paa";
+logoOver = "mod.paa";
+tooltip = "factionTemplate"; // Short Description
+tooltipOwned = "Drongo Owned";
+overview = "factionTemplate"; // Short Description
+author = "yourName";
+overviewPicture = "mod.paa";
+overviewText = "####";
+overviewFootnote = "";
