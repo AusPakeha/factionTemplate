@@ -1,3 +1,5 @@
+Template files for custom faction using Drongo's faction generator.
+
 Drongo's Config Generator
 v018
 16 July 2019
